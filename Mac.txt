@@ -1,0 +1,3 @@
+Open Spotlight (Cmd+Space) and type terminal to open the Terminal window. At the command line, enter the following command
+security find-generic-password -wa labnol
+(replace labnol with your WiFi name), then enter your Mac username and password to access the OS X keychain and the Wi-FI network password will be displayed on the screen.
